@@ -27,3 +27,5 @@
 * [A First Look at RedwoodJS](https://www.youtube.com/watch?v=0krdC_D42IU)
 * [Fully-typed fullstack development using Blitz.js](https://www.youtube.com/watch?v=P9jZ-Pb8aLw&t=4603s)
 * [Build an Event App with Vue.js, Gridsome & Strapi.js](https://www.youtube.com/watch?v=vB6rmWCmANA)
+
+## [Download episode](https://media.transistor.fm/256c1066/f2c5924d.mp3?download=true)
