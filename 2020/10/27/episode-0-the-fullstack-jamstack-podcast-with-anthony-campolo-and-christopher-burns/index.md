@@ -21,6 +21,7 @@
 * [The Fullstack React Frameworks Competition](https://nextjsnews.com/3)
 * [Does Prisma Client support GraphQL schema delegation and GraphQL binding?](https://www.prisma.io/docs/more/faq#does-prisma-client-support-graphql-schema-delegation-and-graphql-binding)
 * [The Rust Programming Language](https://doc.rust-lang.org/book/)
+* [React Distros](https://www.swyx.io/react-distros/)
 
 ## Videos
 
